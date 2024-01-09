@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="output.xsl" type="text/xsl"?>
+
+<collection>
+    <info>
+        <song> Vamp Anthem     </song>
+        <artist>PLayboiCarti</artist>
+    </info>
+    <info>
+        <song>Dusk Till Dawn       </song>
+        <artist>Zayn Malik</artist>
+    </info>
+    <info>
+        <song>Payphone      </song>
+        <artist>Maroon 5</artist>
+    </info>
+    <info>
+        <song>Another Love        </song>
+        <artist>Tom Odell</artist>
+    </info>
+    <info>
+        <song> Levitating        </song>
+        <artist>Dua Lipa</artist>
+    </info>
+    <info>
+        <song> Roberry        </song>
+        <artist>Juice Wrld</artist>
+    </info>
+    <info>
+        <song> FE!N        </song>
+        <artist>Travis Scott</artist>
+    </info>
+</collection>
