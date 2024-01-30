@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <title>Document</title>
+
+    <style>
+      #boff{
+        display: block;
+        margin: 20px auto;
+      }
+      #btnon{  margin: 20px auto;
+        display: block;
+        box-shadow: 2px 2px 3px 3px red;
+        letter-spacing: 15px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    #marq{
+        box-shadow: 2px 2px 3px 3px red;
+        letter-spacing: 15px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    </style>
+</head>
+<body class="bg-dark">
+    <marquee behavior="" direction="" class="text-danger" id="marq">Press Button to Turn On</marquee>
+    <img src="./images/b-removebg-preview.png" id="boff" alt="" class="border-5" height="400px" width="35%">
+    <button class=" btn btn-danger border-2" id="btnon"> Turn On</button>
+   <script src="bulb.js"></script> 
+</body>
+</html>
